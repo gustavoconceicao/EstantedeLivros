@@ -1,0 +1,9 @@
+C:\C# Alura\EstanteDeLivros\EstanteDeLivrosBiblioteca\bin\Debug\EstanteDeLivrosBiblioteca.dll
+C:\C# Alura\EstanteDeLivros\EstanteDeLivrosBiblioteca\bin\Debug\EstanteDeLivrosBiblioteca.pdb
+C:\C# Alura\EstanteDeLivros\EstanteDeLivrosBiblioteca\obj\Debug\EstanteDeLivrosBiblioteca.csprojAssemblyReference.cache
+C:\C# Alura\EstanteDeLivros\EstanteDeLivrosBiblioteca\obj\Debug\EstanteDeLivrosBiblioteca.csproj.CoreCompileInputs.cache
+C:\C# Alura\EstanteDeLivros\EstanteDeLivrosBiblioteca\obj\Debug\EstanteDeLivrosBiblioteca.dll
+C:\C# Alura\EstanteDeLivros\EstanteDeLivrosBiblioteca\obj\Debug\EstanteDeLivrosBiblioteca.pdb
+C:\C# Alura\EstanteDeLivros\EstanteDeLivrosBiblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\C# Alura\EstanteDeLivros\EstanteDeLivrosBiblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\C# Alura\EstanteDeLivros\EstanteDeLivrosBiblioteca\obj\Debug\EstanteDeLivrosBiblioteca.csproj.CopyComplete
